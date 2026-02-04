@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Ana and this is my first time using github! I love this! I am seeking employment so feel free to message me for opportunities!
 <!--
 **saav532/saav532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
